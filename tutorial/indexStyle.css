@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    color: white;
+    background-color: navy;
+}
+h2 {
+    color: purple;
+    margin-left: 40px;
+    border-bottom: dotted;
+}
+h1.clicked {
+    color: navy;
+    background-color: hotpink;
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/allParens/allParens.iml" filepath="$PROJECT_DIR$/allParens/allParens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/allSubsets/allSubsets.iml" filepath="$PROJECT_DIR$/allSubsets/allSubsets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/allWords/allWords.iml" filepath="$PROJECT_DIR$/allWords/allWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inMemDatabase.iml" filepath="$PROJECT_DIR$/inMemDatabase.iml" />
+    </modules>
+  </component>
+</project>

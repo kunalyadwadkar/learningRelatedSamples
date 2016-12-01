@@ -1,0 +1,4 @@
+rootProject.name = 'inMemDatabase'
+include 'allSubsets'
+include 'allParens'
+

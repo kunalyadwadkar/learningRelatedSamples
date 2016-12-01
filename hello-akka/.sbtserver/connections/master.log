@@ -1,0 +1,34 @@
+New log file opened at Mon Aug 22 07:52:42 PDT 2016 by 13168@C02MG976FD57.local
+Taking next connection to: 59908
+New client attempting to connect on port: 59909-59908
+  Address = /127.0.0.1:59908
+This client on port 59909 has uuid 0c22b1c6-80f9-436d-b150-9a3ef71cd098 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-0c22b1c6-80f9-436d-b150-9a3ef71cd098
+Taking next connection to: 59908
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59908
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59908
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59908
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59908
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59908
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59908
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59908
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59908
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 59908

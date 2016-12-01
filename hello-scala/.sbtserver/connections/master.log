@@ -1,0 +1,19 @@
+New log file opened at Sun Jun 19 14:29:04 EDT 2016 by 19240@C02MG976FD57
+Taking next connection to: 61600
+New client attempting to connect on port: 61601-61600
+  Address = /127.0.0.1:61600
+This client on port 61601 has uuid 0abc653e-56ea-41a1-aed1-933590a07f6f configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-0abc653e-56ea-41a1-aed1-933590a07f6f
+Taking next connection to: 61600
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 61600
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 61600
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 19240@C02MG976FD57 logs at Mon Jun 20 10:03:44 EDT 2016, goodbye.
